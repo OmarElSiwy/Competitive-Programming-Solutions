@@ -13,6 +13,9 @@
     "random": "cpp",
     "limits": "cpp",
     "valarray": "cpp",
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "barrier": "cpp",
+    "latch": "cpp",
+    "semaphore": "cpp"
   }
 }
